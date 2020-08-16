@@ -8,10 +8,16 @@ This site will include multiple functions with different uses.
 
 ## Content / Functionality
 
-- Polynomic ekvation solver (not done)
+Currently no contect as of mathematical equations.
 
-- Ekvation solver with input from x (not done)
+## Shall be implemented
 
-- Basic string manipulation to calculate normal ekvations (not done)
+- Parser tree for doing prio calculations, this is to make everything else much simpler.
 
-- Different Calculus ekvations (not done)
+- Polynomic equation solver
+
+- Equations solver with input from x
+
+- Basic string manipulation to calculate normal equations
+
+- Different Calculus equations
